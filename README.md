@@ -1,4 +1,4 @@
-## Hi there 👋
+안녕하세요 저는 영남대학교 컴퓨터공학전공 2학년 재학중인 이소영이라고합니다. 👋
 
 <!--
 **soyoung5200/soyoung5200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
